@@ -1,0 +1,2 @@
+.nav__list{width:100%;display:flex;flex-direction:row;justify-content:space-around;list-style-type:none;margin:0 auto;padding:8px 0}.nav__link{padding:6px;font-weight:800}.nav__link--active{color:#2c3e50}h2{text-align:center}.form-control{width:50%;margin:16px auto}.peopleTable{border-collapse:collapse;margin:0 auto}td,th{padding:8px;border:1px solid #d3d3d3}.personRow{cursor:pointer}.personRow__active{background-color:#ff0}.person__mother,.person__woman{color:red}.person__father,.person__man{color:#00f}
+/*# sourceMappingURL=main.4b2d090f.chunk.css.map */
