@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,wBACF,CAEA,iBACE,cACF","file":"main.1c34b825.chunk.css","sourcesContent":[".peopleTable {\n  border-collapse: collapse;\n}\n\n.peopleTable__tr {\n  cursor: pointer;\n}\n"]}
